@@ -11,3 +11,7 @@
   ```bash
   ./setup.sh start
   ```
+
+### Striling PDF
+
+- URL: http://localhost:8145/
