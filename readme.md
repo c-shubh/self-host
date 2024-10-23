@@ -1,17 +1,13 @@
 ## Services
 
-### ConvertX
+### ConvertX - File convertor
 
 - URL: http://localhost:8143/
 
-### Plane
+### Planka - Task Management
 
 - URL: http://localhost:8144/
-- Start command:
-  ```bash
-  ./setup.sh start
-  ```
 
-### Striling PDF
+### Stirling PDF - PDF Tools
 
 - URL: http://localhost:8145/
