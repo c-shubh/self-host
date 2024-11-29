@@ -1,3 +1,3 @@
 import os
 
-os.system("docker compose down -v")
+os.system("docker compose down")
