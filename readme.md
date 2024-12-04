@@ -7,3 +7,8 @@
 ### Stirling PDF - PDF Tools
 
 - URL: http://localhost:8145/
+
+
+## Immich Photo Management
+
+- URL: http://localhost:2283/
