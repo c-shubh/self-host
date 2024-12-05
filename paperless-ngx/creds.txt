@@ -1,0 +1,3 @@
+username: shubh
+password: shubh123
+email: shubh@example.com

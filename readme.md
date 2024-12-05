@@ -8,7 +8,10 @@
 
 - URL: http://localhost:8145/
 
-
 ## Immich Photo Management
 
 - URL: http://localhost:2283/
+
+## Paperless-ngx
+
+- URL: http://localhost:8146/
