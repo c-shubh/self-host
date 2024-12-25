@@ -1,0 +1,2 @@
+email: demo@dawarich.app
+password: password

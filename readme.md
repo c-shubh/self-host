@@ -15,3 +15,7 @@
 ## Paperless-ngx
 
 - URL: http://localhost:8146/
+
+## Dawarich - Location history
+
+- URL: http://localhost:8147/
